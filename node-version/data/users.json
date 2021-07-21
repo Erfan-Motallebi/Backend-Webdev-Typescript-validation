@@ -1,0 +1,25 @@
+{
+    "users": 
+    [
+        {
+            "id" : 1,
+            "name" : "Eric",
+            "code": 654513
+        },
+        {
+            "id" : 1,
+            "name" : "Eric",
+            "code": 654513
+        },
+        {
+            "id" : 1,
+            "name" : "Eric",
+            "code": 654513
+        },
+        {
+            "id" : 1,
+            "name" : "Eric",
+            "code": 654513
+        }
+    ]
+}
